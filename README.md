@@ -14,7 +14,7 @@ The shell has a prompt and a location in the file directory system of the comput
 
 You can move around the directory structure by using 
 
-<code>cd name_of_folder</code>
+<code>cd path_location_of_folder</code>
 
 You can access a text editor by typing
 
